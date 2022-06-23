@@ -2,6 +2,6 @@
 Klap Finance Resources
 
 
-[Quantstamp Audit](klap-finance-public/3779476430062817480klap_-_report.pdf)
+[Quantstamp Audit](3779476430062817480klap_-_report.pdf)
 
 

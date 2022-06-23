@@ -1,4 +1,4 @@
 # klap-finance-public
 Klap Finance Resources
 
-(qsaudit.png)
+(klap-finance-public/qsaudit.png)
